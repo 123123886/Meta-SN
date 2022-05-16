@@ -11,3 +11,4 @@ def get_classifier(ebd_dim, args):
         return model.cuda(args.cuda)
     else:
         return model
+    
