@@ -123,3 +123,4 @@ def get_weight_of_test_support(support, query, args):
     if args.cuda != -1:
         result = result.cuda(args.cuda)
     return result
+
