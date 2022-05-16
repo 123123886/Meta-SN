@@ -625,3 +625,4 @@ def load_dataset(args):
     class_names['text_len'] = class_names['text_len'][temp_num]
 
     return train_data, test_data, test_data, class_names, vocab
+
