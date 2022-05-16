@@ -411,3 +411,4 @@ def train(train_data, val_data, model, class_names, criterion, args):
                 f.write("{}={}\n".format(attr, value))
 
     return optG
+
