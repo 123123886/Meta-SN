@@ -118,3 +118,5 @@ class BASE(nn.Module):
             @param true: batch_size
         '''
         return torch.mean((torch.argmax(pred, dim=1) == true).float()).item()
+
+    
