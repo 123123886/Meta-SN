@@ -128,3 +128,4 @@ class ModelG(nn.Module):
         return torch.mean((pred.view(-1) == label).type(torch.FloatTensor))
 
 
+    
