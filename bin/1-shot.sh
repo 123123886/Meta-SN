@@ -65,3 +65,4 @@ python ../src/main_simaese_network.py \
     --train_loss_weight 12.0 \
     --test_loss_weight 5.8 \
     --kernel_size 2 3 4 \
+    
