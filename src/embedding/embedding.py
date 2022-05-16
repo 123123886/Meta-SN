@@ -21,3 +21,4 @@ def get_embedding(vocab, args):
         return modelG  # , modelD
     else:
         return modelG  # , modelD
+    
