@@ -39,4 +39,3 @@ You can also adjust the model by modifying the parameters in the `1-shot.sh` or 
 - termcolor 1.1.0
 - tqdm 4.46.0
 - CUDA 10.2
-- 
