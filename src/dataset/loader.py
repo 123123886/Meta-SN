@@ -9,6 +9,7 @@ from torchtext.vocab import Vocab, Vectors
 from dataset.utils import tprint
 
 
+
 def _get_20newsgroup_classes(args):
     '''
         @return list of classes associated with each split
