@@ -2,6 +2,7 @@ import torch
 import datetime
 
 
+
 def tprint(s):
     '''
         print datetime and s
