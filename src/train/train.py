@@ -20,6 +20,7 @@ from collections import OrderedDict
 
 
 
+
 def del_tensor_ele(arr, index):
         arr1 = arr[0:index]
         arr2 = arr[index + 1:]
