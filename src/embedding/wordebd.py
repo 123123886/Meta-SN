@@ -2,6 +2,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 
+
 class WORDEBD(nn.Module):
     '''
         An embedding layer that maps the token id into its corresponding word
