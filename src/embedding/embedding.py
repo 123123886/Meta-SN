@@ -3,6 +3,7 @@ from embedding.wordebd import WORDEBD
 
 from model.simaese_model import ModelG
 
+
 def get_embedding(vocab, args):
     print("{}, Building embedding".format(
         datetime.datetime.now()), flush=True)
